@@ -1,0 +1,63 @@
+{
+  "Header": {
+    "title": "Devboxx Software Development",
+    "paragraph": "We design, build, and scale modern software—web, mobile, and cloud. From MVPs to enterprise platforms, we ship secure, maintainable code with measurable impact."
+  },
+  "About": {
+    "paragraph": "Devboxx is an Israel-based software studio helping startups and enterprises turn ideas into reliable, scalable products. Our senior engineers and product leads bring deep expertise across web, mobile, cloud, and DevOps—pairing clean architecture with a security-first mindset. We partner end-to-end: discovery, design, development, QA, deployment, and ongoing support.",
+    "Why": [
+      "Senior engineers on every project",
+      "Clean, scalable architectures",
+      "Security-first engineering",
+      "Agile sprints with demos"
+    ],
+    "Why2": [
+      "Transparent roadmaps & pricing",
+      "Automated CI/CD & observability",
+      "Performance & cost optimization",
+      "Post-launch support SLAs"
+    ]
+  },
+  "Gallery": [
+    { "title": "FinTech Web Platform", "largeImage": "img/portfolio/01-large.jpg", "smallImage": "img/portfolio/01-small.jpg" },
+    { "title": "Healthcare Patient App", "largeImage": "img/portfolio/02-large.jpg", "smallImage": "img/portfolio/02-small.jpg" },
+    { "title": "E-commerce Headless Store", "largeImage": "img/portfolio/03-large.jpg", "smallImage": "img/portfolio/03-small.jpg" },
+    { "title": "SaaS Analytics Dashboard", "largeImage": "img/portfolio/04-large.jpg", "smallImage": "img/portfolio/04-small.jpg" },
+    { "title": "Logistics Fleet Tracking", "largeImage": "img/portfolio/05-large.jpg", "smallImage": "img/portfolio/05-small.jpg" },
+    { "title": "EdTech Mobile Learning", "largeImage": "img/portfolio/06-large.jpg", "smallImage": "img/portfolio/06-small.jpg" },
+    { "title": "Telemedicine Platform", "largeImage": "img/portfolio/07-large.jpg", "smallImage": "img/portfolio/07-small.jpg" },
+    { "title": "IoT Device Portal", "largeImage": "img/portfolio/08-large.jpg", "smallImage": "img/portfolio/08-small.jpg" },
+    { "title": "AI Document Processing", "largeImage": "img/portfolio/09-large.jpg", "smallImage": "img/portfolio/09-small.jpg" }
+  ],
+  "Services": [
+    { "icon": "fa fa-code", "name": "Custom Software Development", "text": "Greenfield builds and system rewrites using modern stacks and clean architecture." },
+    { "icon": "fa fa-mobile", "name": "Mobile App Development", "text": "Native and cross-platform apps (iOS/Android) with offline-first and robust QA." },
+    { "icon": "fa fa-globe", "name": "Web & API Engineering", "text": "High-performance SPAs, microservices, GraphQL/REST APIs, and real-time features." },
+    { "icon": "fa fa-cloud", "name": "Cloud & DevOps", "text": "AWS/GCP/Azure, Kubernetes, IaC (Terraform), CI/CD, cost & performance tuning." },
+    { "icon": "fa fa-paint-brush", "name": "UI/UX Design", "text": "Product discovery, wireframes, design systems, and accessible, responsive UI." },
+    { "icon": "fa fa-shield", "name": "QA & Security Engineering", "text": "Automated testing, SAST/DAST, threat modeling, and secure SDLC practices." }
+  ],
+  "Testimonials": [
+    { "img": "", "text": "“Devboxx delivered our MVP in record time and set up cloud infra with zero downtime.”", "name": "Noa Cohen, CEO — FinTech Startup, Tel Aviv" },
+    { "img": "", "text": "“Our SaaS platform is faster and more reliable—API response times cut nearly in half.”", "name": "Yossi Levi, CTO — SaaS, Haifa" },
+    { "img": "", "text": "“They built GDPR- and HIPAA-compliant workflows without slowing delivery.”", "name": "Dr. Maya Ben-David, Medical Director — Jerusalem" },
+    { "img": "", "text": "“Strong agile processes. We finally ship on schedule with confidence.”", "name": "Eitan Shapiro, Product Lead — Herzliya" },
+    { "img": "", "text": "“Our logistics dashboard and design system modernized our entire UX.”", "name": "Shira Gold, COO — Logistics, Ashdod" },
+    { "img": "", "text": "“Their DevOps and cost optimization expertise paid off immediately.”", "name": "Ariel Katz, CTO — HealthTech, Tel Aviv" }
+  ],
+ 
+  "Contact": {
+    "address": "Israel",
+    "phone": "+972 54-799-9870",
+    "email": "aalbertjones23@devboxx.org",
+    "facebook": "https://facebook.com/devboxxdev",
+    "twitter": "https://twitter.com/devboxx_dev",
+    "youtube": "https://youtube.com/@devboxxdev"
+  },
+  "Features": [
+    { "icon": "fa fa-bolt", "title": "Agile Delivery", "text": "Two-week sprints with live demos and burn-down transparency." },
+    { "icon": "fa fa-check-square-o", "title": "Quality by Default", "text": "Code reviews, automated tests, linting, and continuous delivery." },
+    { "icon": "fa fa-lock", "title": "Security First", "text": "Compliance with Israeli privacy law & GDPR, secure coding, and proactive audits." },
+    { "icon": "fa fa-line-chart", "title": "Measurable Outcomes", "text": "KPIs, performance budgets, and metrics that map to business goals." }
+  ]
+}
